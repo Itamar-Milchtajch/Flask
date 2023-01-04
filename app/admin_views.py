@@ -5,7 +5,6 @@ from app import app
 def admin_dashboard():
     return "Admin dashboard!"
 
-hello world
 
 @app.route("/admin/profile")
 def admin_profile():
